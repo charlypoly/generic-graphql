@@ -43,3 +43,12 @@ client.query(query, (executionResult) => {
 });
 
 ```
+
+
+#### Dependencies
+- istanbul
+- mocha
+- request
+- graphql-tools
+- lodash ?
+- when ?
